@@ -25,18 +25,9 @@ div p {
 div > strong {
 	color: blue;
 }
-/*
-div > strong {
-	color: blue;
-} */
+
 
 /* Quando vado con il mouse diventa rosso */
 a:hover {
 	background-color: red;
 }
-/*
-a:hover,
-a:active,
-a:focus {
-	color: red;
-} */
